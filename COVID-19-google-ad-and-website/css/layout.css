@@ -1020,6 +1020,14 @@ fieldset[disabled] .btn-theme {
   text-transform: uppercase;
 }
 
+.carousel-title1 {
+  font-size: 70px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
 @media (max-width: 768px) {
   .carousel-title {
     font-size: 60px;
