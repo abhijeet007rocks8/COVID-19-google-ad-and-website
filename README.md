@@ -1,5 +1,5 @@
-# COVID-19-google-ad-and-website
-project to spread awareness about covid19 virus 
+# COVID-19-Google-Ad-and-Website 
+Project to spread awareness about COVID-19 virus 
 
 This Project has two parts-:
 ## 1-Google ad which can be posted on website with high traffic and onclickin it redirects you to a website.
